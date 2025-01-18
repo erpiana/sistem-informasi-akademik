@@ -7,7 +7,4 @@ Sistem Akademik Erpiana adalah aplikasi berbasis web untuk mengelola data akadem
 - Kelola departemen, fakultas, program studi, dan semester.
 - CRUD (Create, Read, Update, Delete) untuk semua data.
 
-### Teknologi yang Digunakan
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
-- **Database:** MySQL
+
