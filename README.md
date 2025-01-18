@@ -1,0 +1,1 @@
+Sistem informasi akademik untuk mempermudah pengelolaan data mahasiswa, dosen, mata kuliah, departemen, fakultas, program studi, semester, dan penelitian. Aplikasi ini mendukung fitur tambah, edit, dan hapus data untuk memastikan kemudahan manajemen data akademik.
